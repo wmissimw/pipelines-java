@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/waleed0756/azure-pipelines-tutorial/_apis/build/status/wmissimw.pipelines-java?branchName=master)](https://dev.azure.com/waleed0756/azure-pipelines-tutorial/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
